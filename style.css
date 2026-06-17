@@ -1,0 +1,191 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.75;
+  color: #1a1a1a;
+  background: #faf9f7;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+}
+
+/* ---- Masthead (index) ---- */
+.masthead {
+  text-align: center;
+  border-top: 3px solid #1a1a1a;
+  border-bottom: 1px solid #1a1a1a;
+  padding: 1.75rem 0;
+  margin-bottom: 3rem;
+}
+
+.masthead h1 {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", serif;
+  font-size: 2rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.masthead .subtitle {
+  font-size: 0.82rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #666;
+  margin-top: 0.6rem;
+}
+
+/* ---- Edition list (index) ---- */
+.editions-list {
+  list-style: none;
+}
+
+.editions-list li {
+  padding: 1.4rem 0;
+  border-bottom: 1px solid #d8d5d0;
+}
+
+.editions-list li:first-child {
+  border-top: 1px solid #d8d5d0;
+}
+
+.editions-list a {
+  text-decoration: none;
+  color: #1a1a1a;
+  display: block;
+}
+
+.editions-list a:hover .edition-title {
+  text-decoration: underline;
+}
+
+.edition-meta {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #888;
+  margin-bottom: 0.3rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.edition-title {
+  font-size: 1.15rem;
+  font-weight: bold;
+  line-height: 1.35;
+}
+
+.edition-dek {
+  font-size: 0.95rem;
+  color: #555;
+  margin-top: 0.3rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+/* ---- Edition page ---- */
+.edition-masthead {
+  border-top: 3px solid #1a1a1a;
+  border-bottom: 2px solid #1a1a1a;
+  padding: 1.75rem 0;
+  margin-bottom: 2.75rem;
+}
+
+.publication-name {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #888;
+  margin-bottom: 0.6rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.edition-masthead h1 {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", serif;
+  font-size: 2rem;
+  line-height: 1.25;
+  font-weight: bold;
+}
+
+.edition-masthead .dek {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #444;
+  margin-top: 0.8rem;
+  line-height: 1.55;
+}
+
+.edition-masthead .edition-meta {
+  margin-top: 0.8rem;
+}
+
+/* ---- Body ---- */
+.edition-body p {
+  margin-bottom: 1.5rem;
+}
+
+.edition-body p:last-child {
+  margin-bottom: 0;
+}
+
+.divider {
+  text-align: center;
+  margin: 2.5rem 0;
+  color: #aaa;
+  letter-spacing: 0.3em;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.85rem;
+}
+
+/* ---- References ---- */
+.references {
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #d8d5d0;
+}
+
+.references h2 {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #666;
+  margin-bottom: 1.1rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.references p {
+  font-size: 0.9rem;
+  line-height: 1.65;
+  margin-bottom: 0.9rem;
+  padding-left: 1.75rem;
+  text-indent: -1.75rem;
+}
+
+.references a {
+  color: #1a1a1a;
+}
+
+.references a:hover {
+  text-decoration: none;
+  color: #555;
+}
+
+/* ---- Nav ---- */
+.back-link {
+  display: inline-block;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #888;
+  text-decoration: none;
+  margin-bottom: 2.25rem;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.back-link:hover {
+  color: #1a1a1a;
+}
