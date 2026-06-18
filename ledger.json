@@ -16,5 +16,23 @@
     "edition": 1,
     "date": "2026-06-17",
     "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1093/scan/nsw171",
+    "title": "Hierarchical prediction errors in midbrain and septum during social learning",
+    "authors": "Diaconescu, A. O., Mathys, C., Weber, L. A. E., Kasper, L., Mauer, J., & Stephan, K. E.",
+    "year": 2017,
+    "edition": 2,
+    "date": "2026-06-18",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1038/s41398-023-02587-z",
+    "title": "Brain mediators of biased social learning of self-perception in social anxiety disorder",
+    "authors": "Koban, L., Andrews-Hanna, J. R., Ives, L., Wager, T. D., & Arch, J. J.",
+    "year": 2023,
+    "edition": 2,
+    "date": "2026-06-18",
+    "beat": "Neural methods and computational accounts"
   }
 ]
