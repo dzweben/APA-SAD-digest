@@ -16,5 +16,23 @@
     "edition": 1,
     "date": "2026-06-17",
     "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1038/nrn3524",
+    "title": "Uncertainty and anticipation in anxiety: An integrated neurobiological and psychological perspective",
+    "authors": "Grupe, D. W., & Nitschke, J. B.",
+    "year": 2013,
+    "edition": 2,
+    "date": "2026-06-20",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1016/j.tins.2012.04.012",
+    "title": "Functional network dysfunction in anxiety and anxiety disorders",
+    "authors": "Sylvester, C. M., Corbetta, M., Raichle, M. E., Rodebaugh, T. L., Schlaggar, B. L., Sheline, Y. I., & Lenze, E. J.",
+    "year": 2012,
+    "edition": 2,
+    "date": "2026-06-20",
+    "beat": "Neural methods and computational accounts"
   }
 ]
