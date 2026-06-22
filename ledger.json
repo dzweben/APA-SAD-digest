@@ -16,5 +16,23 @@
     "edition": 1,
     "date": "2026-06-17",
     "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1038/nrn3524",
+    "title": "Uncertainty and anticipation in anxiety: An integrated neurobiological and psychological perspective",
+    "authors": "Grupe, D. W., & Nitschke, J. B.",
+    "year": 2013,
+    "edition": 2,
+    "date": "2026-06-22",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1001/2013.jamapsychiatry.5",
+    "title": "Predicting treatment response in social anxiety disorder from functional magnetic resonance imaging",
+    "authors": "Doehrmann, O., Ghosh, S. S., Polli, F. E., Reynolds, G. O., Horn, F., Keshavan, A., Triantafyllou, C., Saygin, Z. M., Whitfield-Gabrieli, S., Hofmann, S. G., Pollack, M., & Gabrieli, J. D. E.",
+    "year": 2013,
+    "edition": 2,
+    "date": "2026-06-22",
+    "beat": "Neural methods and computational accounts"
   }
 ]
