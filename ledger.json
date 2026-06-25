@@ -16,5 +16,23 @@
     "edition": 1,
     "date": "2026-06-17",
     "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1038/nrn3524",
+    "title": "Uncertainty and anticipation in anxiety: An integrated neurobiological and psychological perspective",
+    "authors": "Grupe, D. W., & Nitschke, J. B.",
+    "year": 2013,
+    "edition": 2,
+    "date": "2026-06-25",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1038/s41398-023-02587-z",
+    "title": "Brain mediators of biased social learning of self-perception in social anxiety disorder",
+    "authors": "Koban, L., Andrews-Hanna, J. R., Ives, L., Wager, T. D., & Arch, J. J.",
+    "year": 2023,
+    "edition": 2,
+    "date": "2026-06-25",
+    "beat": "Neural methods and computational accounts"
   }
 ]
