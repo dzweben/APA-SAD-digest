@@ -34,5 +34,23 @@
     "edition": 2,
     "date": "2026-06-25",
     "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1097/00001756-199804200-00048",
+    "title": "fMRI reveals amygdala activation to human faces in social phobics",
+    "authors": "Birbaumer, N., Grodd, W., Diedrich, O., Klose, U., Erb, M., Lotze, M., Schneider, F., Weiss, U., & Flor, H.",
+    "year": 1998,
+    "edition": 3,
+    "date": "2026-07-06",
+    "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1176/appi.ajp.158.8.1220",
+    "title": "Cerebral blood flow in subjects with social phobia during stressful speaking tasks: A PET study",
+    "authors": "Tillfors, M., Furmark, T., Marteinsdottir, I., Fischer, H., Pissiota, A., Långström, B., & Fredrikson, M.",
+    "year": 2001,
+    "edition": 3,
+    "date": "2026-07-06",
+    "beat": "Foundational and landmark neuroscience"
   }
 ]
