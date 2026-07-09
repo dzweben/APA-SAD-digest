@@ -52,5 +52,23 @@
     "edition": 3,
     "date": "2026-07-06",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1017/S0033291704003915",
+    "title": "The social re-orientation of adolescence: A neuroscience perspective on the process and its relation to psychopathology",
+    "authors": "Nelson, E. E., Leibenluft, E., McClure, E. B., & Pine, D. S.",
+    "year": 2005,
+    "edition": 4,
+    "date": "2026-07-09",
+    "beat": "Child and adolescent social processing"
+  },
+  {
+    "doi": "10.1001/archpsyc.65.11.1303",
+    "title": "Amygdala and ventrolateral prefrontal cortex function during anticipated peer evaluation in pediatric social anxiety",
+    "authors": "Guyer, A. E., Lau, J. Y. F., McClure-Tone, E. B., Parrish, J., Shiffrin, N. D., Reynolds, R. C., Chen, G., Blair, R. J. R., Leibenluft, E., Fox, N. A., Ernst, M., Pine, D. S., & Nelson, E. E.",
+    "year": 2008,
+    "edition": 4,
+    "date": "2026-07-09",
+    "beat": "Child and adolescent social processing"
   }
 ]
