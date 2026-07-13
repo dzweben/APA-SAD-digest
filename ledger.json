@@ -70,5 +70,23 @@
     "edition": 4,
     "date": "2026-07-09",
     "beat": "Child and adolescent social processing"
+  },
+  {
+    "doi": "10.1038/s41380-024-02768-2",
+    "title": "Resting-state functional connectivity in anxiety disorders: A multicenter fMRI study",
+    "authors": "Langhammer, T., Hilbert, K., Adolph, D., Arolt, V., Bischoff, S., Böhnlein, J., Cwik, J. C., Dannlowski, U., Deckert, J., Domschke, K., Evens, R., Fydrich, T., Gathmann, B., Hamm, A. O., Heinig, I., Herrmann, M. J., Hollandt, M., Junghoefer, M., Kircher, T., Koelkebeck, K., Leehr, E. J., Lotze, M., Margraf, J., Mumm, J. L. M., Pittig, A., Plag, J., Richter, J., Roesmann, K., Ridderbusch, I. C., Schneider, S., Schwarzmeier, H., Seeger, F., Siminski, N., Straube, T., Ströhle, A., Szeska, C., Wittchen, H.-U., Wroblewski, A., Yang, Y., Straube, B., & Lueken, U.",
+    "year": 2024,
+    "edition": 5,
+    "date": "2026-07-13",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1016/j.jbtep.2022.101810",
+    "title": "Examining social reinforcement learning in social anxiety",
+    "authors": "Beltzer, M. L., Daniel, K. E., Daros, A. R., & Teachman, B. A.",
+    "year": 2023,
+    "edition": 5,
+    "date": "2026-07-13",
+    "beat": "Frontier neuroscience"
   }
 ]
