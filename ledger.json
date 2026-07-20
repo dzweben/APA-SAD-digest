@@ -88,5 +88,23 @@
     "edition": 5,
     "date": "2026-07-13",
     "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1126/science.3353713",
+    "title": "Biological bases of childhood shyness",
+    "authors": "Kagan, J., Reznick, J. S., & Snidman, N.",
+    "year": 1988,
+    "edition": 6,
+    "date": "2026-07-20",
+    "beat": "Temperament, genetics, heritability, behavioral inhibition"
+  },
+  {
+    "doi": "10.1038/s41380-019-0559-1",
+    "title": "A major role for common genetic variation in anxiety disorders",
+    "authors": "Purves, K. L., Coleman, J. R. I., Meier, S. M., Rayner, C., Davis, K. A. S., Cheesman, R., Bækvad-Hansen, M., Børglum, A. D., Cho, S. W., Deckert, J., Gaspar, H. A., Bybjerg-Grauholm, J., Hettema, J. M., Hotopf, M., Hougaard, D., Hübel, C., Kan, C., McIntosh, A. M., Mors, O., Mortensen, P. B., Nordentoft, M., Werge, T., Nicodemus, K. K., Mattheisen, M., Breen, G., & Eley, T. C.",
+    "year": 2020,
+    "edition": 6,
+    "date": "2026-07-20",
+    "beat": "Temperament, genetics, heritability, behavioral inhibition"
   }
 ]
