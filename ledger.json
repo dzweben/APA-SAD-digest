@@ -106,5 +106,23 @@
     "edition": 6,
     "date": "2026-07-20",
     "beat": "Temperament, genetics, heritability, behavioral inhibition"
+  },
+  {
+    "doi": "10.1016/j.brat.2004.10.007",
+    "title": "Classical fear conditioning in the anxiety disorders: A meta-analysis",
+    "authors": "Lissek, S., Powers, A. S., McClure, E. B., Phelps, E. A., Woldehawariat, G., Grillon, C., & Pine, D. S.",
+    "year": 2005,
+    "edition": 7,
+    "date": "2026-07-23",
+    "beat": "Learning, conditioning, and fear-acquisition mechanisms"
+  },
+  {
+    "doi": "10.1002/da.22353",
+    "title": "Updated meta-analysis of classical fear conditioning in the anxiety disorders",
+    "authors": "Duits, P., Cath, D. C., Lissek, S., Hox, J. J., Hamm, A. O., Engelhard, I. M., van den Hout, M. A., & Baas, J. M. P.",
+    "year": 2015,
+    "edition": 7,
+    "date": "2026-07-23",
+    "beat": "Learning, conditioning, and fear-acquisition mechanisms"
   }
 ]
