@@ -142,5 +142,23 @@
     "edition": 8,
     "date": "2026-08-10",
     "beat": "Cross-cultural and cross-national studies"
+  },
+  {
+    "doi": "10.1001/archpsyc.55.1.56",
+    "title": "The risk for early-adulthood anxiety and depressive disorders in adolescents with anxiety and depressive disorders",
+    "authors": "Pine, D. S., Cohen, P., Gurley, D., Brook, J., & Ma, Y.",
+    "year": 1998,
+    "edition": 9,
+    "date": "2026-08-17",
+    "beat": "Developmental trajectories and longitudinal cohorts"
+  },
+  {
+    "doi": "10.1007/s10802-012-9651-6",
+    "title": "Trajectories of social anxiety during adolescence and relations with cognition, social competence, and temperament",
+    "authors": "Miers, A. C., Blöte, A. W., de Rooij, M., Bokhorst, C. L., & Westenberg, P. M.",
+    "year": 2013,
+    "edition": 9,
+    "date": "2026-08-17",
+    "beat": "Developmental trajectories and longitudinal cohorts"
   }
 ]
