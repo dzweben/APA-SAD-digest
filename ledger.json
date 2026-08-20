@@ -160,5 +160,23 @@
     "edition": 9,
     "date": "2026-08-17",
     "beat": "Developmental trajectories and longitudinal cohorts"
+  },
+  {
+    "doi": "10.1001/archpsyc.59.11.1027",
+    "title": "Increased amygdala activation to angry and contemptuous faces in generalized social phobia",
+    "authors": "Stein, M. B., Goldin, P. R., Sareen, J., Zorrilla, L. T. E., & Brown, G. G.",
+    "year": 2002,
+    "edition": 10,
+    "date": "2026-08-20",
+    "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1016/j.biopsycho.2011.10.010",
+    "title": "Insula reactivity and connectivity to anterior cingulate cortex when processing threat in generalized social anxiety disorder",
+    "authors": "Klumpp, H., Angstadt, M., & Phan, K. L.",
+    "year": 2012,
+    "edition": 10,
+    "date": "2026-08-20",
+    "beat": "Neural circuits and mechanisms"
   }
 ]
