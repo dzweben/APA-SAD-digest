@@ -1,5 +1,23 @@
 [
   {
+    "doi": "10.1038/tp.2015.22",
+    "title": "Predicting long-term outcome of Internet-delivered cognitive behavior therapy for social anxiety disorder using fMRI and support vector machine learning",
+    "authors": "Månsson, K. N. T., Frick, A., Boraxbekk, C.-J., Marquand, A. F., Williams, S. C. R., Carlbring, P., Andersson, G., & Furmark, T.",
+    "year": 2015,
+    "edition": 12,
+    "date": "2026-08-27",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1038/s41598-024-72749-6",
+    "title": "Lack of optimistic bias during social evaluation learning reflects reduced positive self-beliefs in depression and social anxiety, but via distinct mechanisms",
+    "authors": "Hoffmann, J. A., Hobbs, C., Moutoussis, M., & Button, K. S.",
+    "year": 2024,
+    "edition": 12,
+    "date": "2026-08-27",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
     "doi": "10.1176/appi.ajp.2007.07030504",
     "title": "Functional neuroimaging of anxiety: A meta-analysis of emotional processing in PTSD, social anxiety disorder, and specific phobia",
     "authors": "Etkin, A., & Wager, T. D.",
