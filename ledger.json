@@ -196,5 +196,23 @@
     "edition": 11,
     "date": "2026-08-24",
     "beat": "Evolutionary and comparative or animal models"
+  },
+  {
+    "doi": "10.1016/j.bbr.2013.11.003",
+    "title": "Classifying social anxiety disorder using multivoxel pattern analyses of brain function and structure",
+    "authors": "Frick, A., Gingnell, M., Marquand, A. F., Howner, K., Fischer, H., Kristiansson, M., Williams, S. C. R., Fredrikson, M., & Furmark, T.",
+    "year": 2014,
+    "edition": 12,
+    "date": "2026-08-31",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1186/s13587-014-0014-5",
+    "title": "Resting state amygdala-prefrontal connectivity predicts symptom change after cognitive behavioral therapy in generalized social anxiety disorder",
+    "authors": "Klumpp, H., Keutmann, M. K., Fitzgerald, D. A., Shankman, S. A., & Phan, K. L.",
+    "year": 2014,
+    "edition": 12,
+    "date": "2026-08-31",
+    "beat": "Neural methods and computational accounts"
   }
 ]
