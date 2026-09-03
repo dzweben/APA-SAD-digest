@@ -214,5 +214,23 @@
     "edition": 12,
     "date": "2026-08-31",
     "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.1037/0022-006X.74.3.568",
+    "title": "Cognitive therapy versus exposure and applied relaxation in social phobia: A randomized controlled trial",
+    "authors": "Clark, D. M., Ehlers, A., Hackmann, A., McManus, F., Fennell, M., Grey, N., Waddington, L., & Wild, J.",
+    "year": 2006,
+    "edition": 13,
+    "date": "2026-09-03",
+    "beat": "Treatment and mechanism-of-change"
+  },
+  {
+    "doi": "10.1001/jamapsychiatry.2013.234",
+    "title": "Impact of cognitive-behavioral therapy for social anxiety disorder on the neural dynamics of cognitive reappraisal of negative self-beliefs: A randomized clinical trial",
+    "authors": "Goldin, P. R., Ziv, M., Jazaieri, H., Hahn, K., Heimberg, R. G., & Gross, J. J.",
+    "year": 2013,
+    "edition": 13,
+    "date": "2026-09-03",
+    "beat": "Treatment and mechanism-of-change"
   }
 ]
