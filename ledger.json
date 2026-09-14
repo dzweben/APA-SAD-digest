@@ -268,5 +268,23 @@
     "edition": 15,
     "date": "2026-09-10",
     "beat": "Theoretical and framework-spanning reviews"
+  },
+  {
+    "doi": "10.1002/da.22014",
+    "title": "Aberrant amygdala-frontal cortex connectivity during perception of fearful faces and at rest in generalized social anxiety disorder",
+    "authors": "Prater, K. E., Hosanagar, A., Klumpp, H., Angstadt, M., & Phan, K. L.",
+    "year": 2013,
+    "edition": 16,
+    "date": "2026-09-14",
+    "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1016/j.bpsc.2019.07.009",
+    "title": "Emotion regulation in social anxiety disorder: Reappraisal and acceptance of negative self-beliefs",
+    "authors": "Dixon, M. L., Moodie, C. A., Goldin, P. R., Farb, N., Heimberg, R. G., & Gross, J. J.",
+    "year": 2020,
+    "edition": 16,
+    "date": "2026-09-14",
+    "beat": "Neural circuits and mechanisms"
   }
 ]
