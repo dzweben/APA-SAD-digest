@@ -286,5 +286,23 @@
     "edition": 16,
     "date": "2026-09-14",
     "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1038/s41562-021-01180-y",
+    "title": "Increased and biased deliberation in social anxiety",
+    "authors": "Hunter, L. E., Meer, E. A., Gillan, C. M., Hsu, M., & Daw, N. D.",
+    "year": 2022,
+    "edition": 17,
+    "date": "2026-09-17",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1192/bjp.2026.10628",
+    "title": "Altered prefrontal effective connectivity during emotion regulation in social anxiety disorder",
+    "authors": "Schrammen, E., Jamieson, A. J., Meinert, H., Böhnlein, J., Slump, T. M., Vogler, R. A., Menze, A., Meinert, S., Bauer, J., Goltermann, J., Grotegerd, D., Förster, K., Repple, J., Opel, N., Redlich, R., Sindermann, L., Dannlowski, U., Harrison, B. J., & Leehr, E. J.",
+    "year": 2026,
+    "edition": 17,
+    "date": "2026-09-17",
+    "beat": "Frontier neuroscience"
   }
 ]
