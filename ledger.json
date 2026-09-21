@@ -286,5 +286,23 @@
     "edition": 16,
     "date": "2026-09-14",
     "beat": "Neural circuits and mechanisms"
+  },
+  {
+    "doi": "10.1177/0963721413476512",
+    "title": "The teenage brain: Sensitivity to social evaluation",
+    "authors": "Somerville, L. H.",
+    "year": 2013,
+    "edition": 17,
+    "date": "2026-09-21",
+    "beat": "Child and adolescent social processing"
+  },
+  {
+    "doi": "10.1016/j.dcn.2015.03.002",
+    "title": "Forgetting the best when predicting the worst: Preliminary observations on neural circuit function in adolescent social anxiety",
+    "authors": "Jarcho, J. M., Romer, A. L., Shechner, T., Galvan, A., Guyer, A. E., Leibenluft, E., Pine, D. S., & Nelson, E. E.",
+    "year": 2015,
+    "edition": 17,
+    "date": "2026-09-21",
+    "beat": "Child and adolescent social processing"
   }
 ]
