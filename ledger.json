@@ -304,5 +304,23 @@
     "edition": 17,
     "date": "2026-09-21",
     "beat": "Child and adolescent social processing"
+  },
+  {
+    "doi": "10.1016/S0006-3223(99)00222-X",
+    "title": "While a phobic waits: Regional brain electrical and autonomic activity in social phobics during anticipation of public speaking",
+    "authors": "Davidson, R. J., Marshall, J. R., Tomarken, A. J., & Henriques, J. B.",
+    "year": 2000,
+    "edition": 18,
+    "date": "2026-09-24",
+    "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1176/appi.ajp.157.3.457",
+    "title": "Low dopamine D2 receptor binding potential in social phobia",
+    "authors": "Schneier, F. R., Liebowitz, M. R., Abi-Dargham, A., Zea-Ponce, Y., Lin, S.-H., & Laruelle, M.",
+    "year": 2000,
+    "edition": 18,
+    "date": "2026-09-24",
+    "beat": "Foundational and landmark neuroscience"
   }
 ]
