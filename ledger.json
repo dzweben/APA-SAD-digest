@@ -304,5 +304,23 @@
     "edition": 17,
     "date": "2026-09-21",
     "beat": "Child and adolescent social processing"
+  },
+  {
+    "doi": "10.1038/372669a0",
+    "title": "Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala",
+    "authors": "Adolphs, R., Tranel, D., Damasio, H., & Damasio, A.",
+    "year": 1994,
+    "edition": 18,
+    "date": "2026-09-28",
+    "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1146/annurev.neuro.23.1.155",
+    "title": "Emotion circuits in the brain",
+    "authors": "LeDoux, J. E.",
+    "year": 2000,
+    "edition": 18,
+    "date": "2026-09-28",
+    "beat": "Foundational and landmark neuroscience"
   }
 ]
