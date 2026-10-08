@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41380-022-01933-9",
+    "title": "Volume of subcortical brain regions in social anxiety disorder: Mega-analytic results from 37 samples in the ENIGMA-Anxiety Working Group",
+    "authors": "Groenewold, N. A., Bas-Hoogendam, J. M., Amod, A. R., et al.",
+    "year": 2023,
+    "edition": 19,
+    "date": "2026-10-08",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1038/s41398-024-02844-9",
+    "title": "Resting-state amygdala subregion and precuneus connectivity in social anxiety disorder",
+    "authors": "Mizzi, S., Pedersen, M., Rossell, S. L., Rendell, P., Terrett, G., Heinrichs, M., & Labuschagne, I.",
+    "year": 2024,
+    "edition": 19,
+    "date": "2026-10-08",
+    "beat": "Frontier neuroscience"
   }
 ]
