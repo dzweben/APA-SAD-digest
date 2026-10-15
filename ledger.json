@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41380-022-01933-9",
+    "title": "Volume of subcortical brain regions in social anxiety disorder: Mega-analytic results from 37 samples in the ENIGMA-Anxiety Working Group",
+    "authors": "Groenewold, N. A., Bas-Hoogendam, J. M., Amod, A. R., Laansma, M. A., van Velzen, L. S., Aghajani, M., et al.",
+    "year": 2023,
+    "edition": 19,
+    "date": "2026-10-15",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1016/j.bpsgos.2026.100721",
+    "title": "Altered theory of mind engagement and neural alignment in social anxiety during movie viewing",
+    "authors": "Koch, S. B. J., Mangnus, M., Devillers, R., Hagoort, P., Bašnáková, J., & Stolk, A.",
+    "year": 2026,
+    "edition": 19,
+    "date": "2026-10-15",
+    "beat": "Frontier neuroscience"
   }
 ]
