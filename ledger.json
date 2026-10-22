@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1002/brb3.71469",
+    "title": "Regional brain activity alterations in social anxiety disorder revealed by seed-based d mapping with permutation of subject images",
+    "authors": "Li, S., Zhang, Z., Ji, S., Zhang, A., Han, S., Chang, Z., Li, K., Cui, J., Yu, H., Liu, C., & Zhou, C.",
+    "year": 2026,
+    "edition": 19,
+    "date": "2026-10-22",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.3389/fpsyg.2025.1581517",
+    "title": "Altered microstate C and D dynamics in high social anxiety: A resting-state EEG study",
+    "authors": "Zhang, H., Peng, B., Liu, Y., Xi, Y., & Lei, Y.",
+    "year": 2025,
+    "edition": 19,
+    "date": "2026-10-22",
+    "beat": "Frontier neuroscience"
   }
 ]
