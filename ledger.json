@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41398-023-02644-7",
+    "title": "A brain model of altered self-appraisal in social anxiety disorder",
+    "authors": "Jamieson, A. J., Harrison, B. J., Delahoy, R., Schmaal, L., Felmingham, K. L., Phillips, L., & Davey, C. G.",
+    "year": 2023,
+    "edition": 19,
+    "date": "2026-10-26",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1038/s41398-024-02844-9",
+    "title": "Resting-state amygdala subregion and precuneus connectivity provide evidence for a dimensional approach to studying social anxiety disorder",
+    "authors": "Mizzi, S., Pedersen, M., Rossell, S. L., Rendell, P., Terrett, G., Heinrichs, M., & Labuschagne, I.",
+    "year": 2024,
+    "edition": 19,
+    "date": "2026-10-26",
+    "beat": "Frontier neuroscience"
   }
 ]
