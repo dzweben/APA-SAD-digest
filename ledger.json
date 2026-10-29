@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41398-025-03301-x",
+    "title": "Alterations in cerebral resting state functional connectivity associated with social anxiety disorder and early life adversities",
+    "authors": "Leypoldt, M., Wiegand, A., Munk, M., Drohm, S., Fallgatter, A. J., Nieratschker, V., & Kreifelts, B.",
+    "year": 2025,
+    "edition": 19,
+    "date": "2026-10-29",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1016/j.bpsgos.2026.100721",
+    "title": "Altered theory of mind engagement and neural alignment in social anxiety during movie viewing",
+    "authors": "Koch, S. B. J., Mangnus, M., Devillers, R., Hagoort, P., Bašnáková, J., & Stolk, A.",
+    "year": 2026,
+    "edition": 19,
+    "date": "2026-10-29",
+    "beat": "Frontier neuroscience"
   }
 ]
