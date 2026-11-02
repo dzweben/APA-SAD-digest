@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41380-022-01933-9",
+    "title": "Volume of subcortical brain regions in social anxiety disorder: Mega-analytic results from 37 samples in the ENIGMA-Anxiety Working Group",
+    "authors": "Groenewold, N. A., Bas-Hoogendam, J. M., et al.",
+    "year": 2023,
+    "edition": 19,
+    "date": "2026-11-02",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1016/j.ebiom.2018.08.048",
+    "title": "Subcortical brain volumes, cortical thickness and cortical surface area in families genetically enriched for social anxiety disorder: A multiplex multigenerational neuroimaging study",
+    "authors": "Bas-Hoogendam, J. M., van Steenbergen, H., Tissier, R. L. M., Houwing-Duistermaat, J. J., Westenberg, P. M., & van der Wee, N. J. A.",
+    "year": 2018,
+    "edition": 19,
+    "date": "2026-11-02",
+    "beat": "Frontier neuroscience"
   }
 ]
