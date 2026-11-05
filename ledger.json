@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41398-023-02644-7",
+    "title": "A brain model of altered self-appraisal in social anxiety disorder",
+    "authors": "Jamieson, A. J., Harrison, B. J., Delahoy, R., Schmaal, L., Felmingham, K. L., Phillips, L., & Davey, C. G.",
+    "year": 2023,
+    "edition": 19,
+    "date": "2026-11-05",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1192/bjp.2026.10628",
+    "title": "Altered prefrontal effective connectivity during emotion regulation in social anxiety disorder",
+    "authors": "Schrammen, E., Jamieson, A. J., Meinert, H., Böhnlein, J., Slump, T. M., Vogler, R. A., Menze, A., Meinert, S., Bauer, J., Goltermann, J., Grotegerd, D., Förster, K., Repple, J., Opel, N., Redlich, R., Sindermann, L., Dannlowski, U., Harrison, B. J., & Leehr, E. J.",
+    "year": 2026,
+    "edition": 19,
+    "date": "2026-11-05",
+    "beat": "Frontier neuroscience"
   }
 ]
