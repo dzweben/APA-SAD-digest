@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41398-025-03301-x",
+    "title": "Alterations in cerebral resting state functional connectivity associated with social anxiety disorder and early life adversities",
+    "authors": "Leypoldt, M., Wiegand, A., Munk, M., Drohm, S., Fallgatter, A. J., Nieratschker, V., & Kreifelts, B.",
+    "year": 2025,
+    "edition": 19,
+    "date": "2026-11-09",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1017/S0033291726103936",
+    "title": "Altered social and cognitive control interactions during decision-making in social anxiety",
+    "authors": "Li, Y., Van Dam, N. T., Wang, Z., Luo, Y., & Xu, P.",
+    "year": 2026,
+    "edition": 19,
+    "date": "2026-11-09",
+    "beat": "Frontier neuroscience"
   }
 ]
