@@ -322,5 +322,23 @@
     "edition": 18,
     "date": "2026-09-28",
     "beat": "Foundational and landmark neuroscience"
+  },
+  {
+    "doi": "10.1038/s41380-022-01933-9",
+    "title": "Volume of subcortical brain regions in social anxiety disorder: Mega-analytic results from 37 samples in the ENIGMA-Anxiety Working Group",
+    "authors": "Groenewold, N. A., Bas-Hoogendam, J. M., et al.",
+    "year": 2023,
+    "edition": 19,
+    "date": "2026-11-16",
+    "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.1126/sciadv.adp0453",
+    "title": "The human social cognitive network contains multiple regions within the amygdala",
+    "authors": "Edmonds, D., Salvo, J. J., Anderson, N., Lakshman, M., Yang, Q., Kay, K., Zelano, C., & Braga, R. M.",
+    "year": 2024,
+    "edition": 19,
+    "date": "2026-11-16",
+    "beat": "Frontier neuroscience"
   }
 ]
