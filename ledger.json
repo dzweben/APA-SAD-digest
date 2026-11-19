@@ -340,5 +340,23 @@
     "edition": 19,
     "date": "2026-11-16",
     "beat": "Frontier neuroscience"
+  },
+  {
+    "doi": "10.7554/eLife.28098",
+    "title": "Neural and computational processes underlying dynamic changes in self-esteem",
+    "authors": "Will, G.-J., Rutledge, R. B., Moutoussis, M., & Dolan, R. J.",
+    "year": 2017,
+    "edition": 20,
+    "date": "2026-11-19",
+    "beat": "Neural methods and computational accounts"
+  },
+  {
+    "doi": "10.5334/cpsy.57",
+    "title": "A reduced self-positive belief underpins greater sensitivity to negative evaluation in socially anxious individuals",
+    "authors": "Hopkins, A. K., Dolan, R., Button, K. S., & Moutoussis, M.",
+    "year": 2021,
+    "edition": 20,
+    "date": "2026-11-19",
+    "beat": "Neural methods and computational accounts"
   }
 ]
